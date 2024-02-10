@@ -1,0 +1,11 @@
+cd
+git init
+git status 
+git add   
+git log   
+git commit -m 
+git config --golbal user.name
+git config --golbal user.email
+git ls
+git branch -M 
+git push -u 
